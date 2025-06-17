@@ -32,18 +32,6 @@ This thesis examines the impact of firms’ ESG (Environmental, Social, and Gove
 - Data visualization using `ggplot2`  
 - Data source: Refinitiv Eikon
 
-## 📁 Repository Structure
-
-.
-├── scripts/
-│   ├── Final_3.R                          # Final script for cleaning, modeling, and visualization
-│   ├── Reg_Long_effect.R                  # Long-term return regression analysis
-├── reports/
-│   ├── Announcement Return with SUE.html        # Short-term event analysis using SUE quartiles
-│   ├── Announcement Return with QSUE.html       # Short-term analysis using standardized SUE
-│   ├── Announcement Return long term effect.html # Long-term effect and PEAD visualization
-│   ├── summary_table.html                       # Summary table in HTML format
-└── README.md
 
 ## 📄 File Descriptions
 
