@@ -32,4 +32,39 @@ This thesis examines the impact of firms’ ESG (Environmental, Social, and Gove
 - Data visualization using `ggplot2`  
 - Data source: Refinitiv Eikon
 
+## 📁 Repository Structure
+
+.
+├── scripts/
+│   ├── Final_3.R                          # Final script for cleaning, modeling, and visualization
+│   ├── Reg_Long_effect.R                  # Long-term return regression analysis
+├── reports/
+│   ├── Announcement Return with SUE.html        # Short-term event analysis using SUE quartiles
+│   ├── Announcement Return with QSUE.html       # Short-term analysis using standardized SUE
+│   ├── Announcement Return long term effect.html # Long-term effect and PEAD visualization
+│   ├── summary_table.html                       # Summary table in HTML format
+└── README.md
+
+## 📄 File Descriptions
+
+- `Final_3.R`: Main R script for full data processing pipeline, regression models, and visualization of ESG effects.
+- `Reg_Long_effect.R`: Focuses on long-term abnormal returns and post-earnings announcement drift.
+- `Announcement Return with SUE.html`: HTML report showing short-term stock return responses across SUE quartiles.
+- `Announcement Return with QSUE.html`: Similar analysis with standardized unexpected earnings (QSUE).
+- `Announcement Return long term effect.html`: Examines long-term cumulative abnormal returns (t+2 to t+25).
+- `summary_table.html`: Summary of the main variables.
+
+
+## 📌 Highlights
+
+- ESG ratings do **not** significantly impact immediate 3-day market reactions
+- Evidence of PEAD exists, but only in small-cap and less-traded stocks
+- ESG effects are muted after controlling for firm-specific frictions
+
+## 🔗 Author
+
+**Rumana Islam**  
+📫 [LinkedIn Profile](https://www.linkedin.com/in/rumanaislam1997/)  
+📂 [Portfolio](https://github.com/rumanaislam1)  
+📬 Email: rumanaislammahin@gmail.com
 
