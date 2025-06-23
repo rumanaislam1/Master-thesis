@@ -1,5 +1,5 @@
 # Master-thesis
-Master’s thesis analysing ESG ratings' impact on stock returns after earnings announcements using R
+Analysing ESG ratings' impact on stock returns after earnings announcements
 # 📘 Master’s Thesis – ESG and Earnings Announcements
 
 This repository contains the R scripts, analysis outputs, and documentation for my master’s thesis:  
